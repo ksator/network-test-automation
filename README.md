@@ -1,5 +1,5 @@
-[![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)](https://github.com/arista-netdevops-community/network-test-automation/blob/master/LICENSE)
-[![CI](https://github.com/arista-netdevops-community/network-test-automation/actions/workflows/test.yml/badge.svg)](https://github.com/arista-netdevops-community/network-test-automation/actions)
+[![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)](https://github.com/ksator/network-test-automation/blob/master/LICENSE)
+[![CI](https://github.com/ksator/network-test-automation/actions/workflows/test.yml/badge.svg)](https://github.com/ksator/network-test-automation/actions)
 
 **Table of Contents**
 - [About this repository](#about-this-repository)
@@ -37,7 +37,7 @@ In addition, this repository has also Python scripts to:
 - Clear counters on devices
 - Clear the list of MAC addresses which are blacklisted in EVPN
 
-This content uses eAPI (EOS API). You can find examples of EOS automation with eAPI in this [repository](https://github.com/arista-netdevops-community/arista_eos_automation_with_eAPI).
+This content uses eAPI (EOS API). You can find examples of EOS automation with eAPI in this [repository](https://github.com/ksator/arista_eos_automation_with_eAPI).
 
 # Tests available in the python package [anta](anta)
 
@@ -316,7 +316,7 @@ Please refer to the [contribution guide](CONTRIBUTING.md)
 
 GitHub actions is used to test git pushes and pull requests.
 The workflows are defined in this [directory](.github/workflows).
-We can view the result [here](https://github.com/arista-netdevops-community/network-test-automation/actions).
+We can view the result [here](https://github.com/ksator/network-test-automation/actions).
 
 # Credits
 

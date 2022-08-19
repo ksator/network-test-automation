@@ -30,7 +30,7 @@ Run this command to install:
 - These [scripts](../scripts) in `/usr/local/bin/`
   
 ```shell
-sudo pip install git+https://github.com/arista-netdevops-community/network-test-automation.git
+sudo pip install git+https://github.com/ksator/network-test-automation.git
 ```
 
 Run these commands to verify:
@@ -43,7 +43,7 @@ check-devices-reachability.py --help
 To update, run this command:
 
 ```shell
-sudo pip install -U git+https://github.com/arista-netdevops-community/network-test-automation.git
+sudo pip install -U git+https://github.com/ksator/network-test-automation.git
 ```
 
 ## Clone the repository and use the `pip install .` command
@@ -55,7 +55,7 @@ Run these commands to install:
 - These [scripts](../scripts) in `/usr/local/bin/`
 
 ```shell
-git clone https://github.com/arista-netdevops-community/network-test-automation.git
+git clone https://github.com/ksator/network-test-automation.git
 cd network-test-automation
 sudo pip install .
 ```
@@ -72,7 +72,7 @@ check-devices-reachability.py --help
 Run these commands to clone the repository and to move to the new folder:
 
 ```shell
-git clone https://github.com/arista-netdevops-community/network-test-automation.git
+git clone https://github.com/ksator/network-test-automation.git
 cd network-test-automation
 ```
 
@@ -104,7 +104,7 @@ check-devices-reachability.py --help
 Run these commands to install the packages indicated in the [requirements.txt](../requirements.txt) file.  
 
 ```shell
-git clone https://github.com/arista-netdevops-community/network-test-automation.git
+git clone https://github.com/ksator/network-test-automation.git
 cd network-test-automation
 pip install -r requirements.txt
 ```

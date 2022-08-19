@@ -28,7 +28,7 @@ setup(
     ],
     install_requires=required,
     include_package_data=True,
-    url="https://github.com/arista-netdevops-community/network-test-automation",
+    url="https://github.com/ksator/network-test-automation",
     license="APACHE",
     author=f"{anta.__author__}",
     author_email=f"{anta.__author_email__}",

@@ -82,7 +82,7 @@ Use the devbox shell
 Run these commands to clone the repository and to move to the new folder:
 
 ```shell
-git clone https://github.com/arista-netdevops-community/network-test-automation.git
+git clone https://github.com/ksator/network-test-automation.git
 cd network-test-automation
 ```
 
